@@ -1,0 +1,2 @@
+# gc-view
+gamecenter-view
